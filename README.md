@@ -1,4 +1,4 @@
-# Drum_Kit_CourseProject
+# Drum_Kit_CourseWork_Repo
 
 <p>My completed course project of <b>Drum Kit</b> <br>
 <pre><i>a Web developer course from <b>The App Brewery</b></i></pre></p>
@@ -11,7 +11,7 @@
   <li> importing google fonts</li>
 </ul>
 
-<a href="https://jimbrayrcp.github.io/Drum_Kit_CourseProject/"><h2>Click Here to View Project</h2></a>
+<a href="https://jimbrayrcp.github.io/Drum_Kit_CourseWork_Repo/"><h2>Click Here to View Project</h2></a>
 
 <hr>
 
