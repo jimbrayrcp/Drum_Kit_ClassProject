@@ -1,4 +1,4 @@
-# Drum_Kit_ClassProject
+# Drum_Kit_CourseProject
 
 <p>My completed course project of <b>Drum Kit</b> <br>
 <pre><i>a Web developer course from <b>The App Brewery</b></i></pre></p>
