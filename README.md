@@ -11,7 +11,7 @@
   <li> importing google fonts</li>
 </ul>
 
-<a href="https://jimbrayrcp.github.io/Drum_Kit_ClassProject/"><h2>Click Here to View Project</h2></a>
+<a href="https://jimbrayrcp.github.io/Drum_Kit_CourseProject/"><h2>Click Here to View Project</h2></a>
 
 <hr>
 
